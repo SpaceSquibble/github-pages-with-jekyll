@@ -8,3 +8,4 @@ description: > # this means to ignore newlines until "baseurl:"
 instagram_username: @spacesquibble
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
