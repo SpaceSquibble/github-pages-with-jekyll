@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my art page
 
-I'm glad you are here. I plan to talk about ...
+I hope you like my art. cuz I dont :)
